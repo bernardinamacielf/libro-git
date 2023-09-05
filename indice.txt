@@ -1,5 +1,10 @@
 Capítulo 1: Introducción a git 
 Capítulo 2: Flujo de trabajo básico 
+<<<<<<< HEAD
 Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
 Capítulo 5: nuevo
+=======
+Capítulo 3: Repositorios remotos
+lolaaaaaaaaaaaaaaaaaa
+>>>>>>> 25205ae901b457df81e890a96613a23c41e7ce42
